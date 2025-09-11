@@ -73,13 +73,11 @@
 
 <div align="center">
 
-| Home Page | Product Catalog | Shopping Cart |
-|-----------|----------------|---------------|
-| ![Home](https://via.placeholder.com/300x200/4F46E5/FFFFFF?text=Home+Page) | ![Products](https://via.placeholder.com/300x200/059669/FFFFFF?text=Products) | ![Cart](https://via.placeholder.com/300x200/DC2626/FFFFFF?text=Shopping+Cart) |
+<img width="1348" height="685" alt="Screenshot 2025-09-12 051417" src="https://github.com/user-attachments/assets/c3a12d23-ffec-4eba-a940-019534b36676" />
+<img width="1347" height="686" alt="Screenshot 2025-09-12 051323" src="https://github.com/user-attachments/assets/d122421f-5890-4708-9a4f-2b0c94558c52" />
+<img width="1351" height="684" alt="Screenshot 2025-09-12 050631" src="https://github.com/user-attachments/assets/b39edd7e-24e1-484f-8374-b617b60c3991" />
+<img width="1365" height="685" alt="Screenshot 2025-09-12 051915" src="https://github.com/user-attachments/assets/895a5cab-f5b2-4ee6-a706-9da820742a84" />
 
-| Admin Dashboard | Order Management | Payment Flow |
-|-----------------|-----------------|--------------|
-| ![Admin](https://via.placeholder.com/300x200/7C3AED/FFFFFF?text=Admin+Panel) | ![Orders](https://via.placeholder.com/300x200/F59E0B/FFFFFF?text=Orders) | ![Payment](https://via.placeholder.com/300x200/10B981/FFFFFF?text=Stripe+Payment) |
 
 </div>
 
@@ -95,7 +93,7 @@
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/shopiy.git
+git clone https://github.com/vnv2315/shopiy.git
 cd shopiy
 ```
 
@@ -290,11 +288,6 @@ If you have any questions or need help:
 ---
 
 <div align="center">
-
-**⭐ Star this repository if you found it helpful!**
-
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/shopiy?style=social)](https://github.com/yourusername/shopiy/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/shopiy?style=social)](https://github.com/yourusername/shopiy/network/members)
 
 Made with ❤️ and lots of ☕
 
